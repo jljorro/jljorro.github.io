@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: José Luis Jorro-Aragoneses
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: José Luis
+last_name: Jorro Aragoneses
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🥼
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,56 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Profesor Ayudante Doctor / Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Universidad Autónoma de Madrid
+    url: https://www.uam.es/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jose-jorro@uam.es'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/jljorro.bsky.social
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jljorro
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://es.linkedin.com/in/jljorro
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=-Jvt-uoAAAAJ&hl=es&authuser=1&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2917-3912
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Explainable Artificial Intelligence
+  - Recommender Systems
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science
+    institution: Universidad Complutense de Madrid
+    date_start: 2015-01-01
+    date_end: 2020-11-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      url: 'https://dialnet.unirioja.es/servlet/dctes?codigo=288999'
+  - area: Computer Engineering
+    institution: Universidad Complutense de Madrid
     date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    date_end: 2013-06-30
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +170,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am an Assistant Professor in the Department of Computer Engineering at UAM. I am also a member of the Information Retrieval research group. My research interests include explainability systems for artificial intelligence models (XAI), recommender systems —including context-aware approaches— and case-based reasoning systems. Additionally, I am interested in developing educational innovation for my classes.
